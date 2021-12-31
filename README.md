@@ -1,0 +1,8 @@
+# Infinite Approvals Solution
+
+This repository demonstrates the solution to the infinite approvals.
+
+Seed deployed 0x17420B1653AaB8a1379f64Bb3EDcAcC98C093849
+Yield Farm deployed 0x2B3caAA17ffeBa230CAf5aFB23E8AA332465AC41
+Proxy deployed 0x16aAA5361F3E29F8e3BbCA64472d39399E303d1F
+Potato deployed 0x93A520FDb31704837Da757235A60CbD18b381b8E
